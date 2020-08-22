@@ -39,7 +39,7 @@ while var==1 :
     
  elif("vlc" in p) or ("VLC" in p):
     pyttsx3.speak("alright sir")
-    print("alright sit")    
+    print("alright sir")    
     os.system("vlc")  
     
  elif ( "notepad" in p) or ("text editor" in p):
